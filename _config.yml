@@ -173,12 +173,12 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
-    - label: 'Credits'
+    - label: 'Unstable Archives'
+      link: 'https://unstable-archives.com/'
+    - label: 'Wax'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:unstablearchives2020@gmail.com'
   logos:
     - img: '/img/pendant_transparent.png'
 
