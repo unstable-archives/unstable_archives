@@ -19,8 +19,8 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Unstable Archives'
-description:      'PLACEHOLDER'
-url:              'https://maxjdugan.github.io'
+description:      'Gender & Empire in South Asia'
+url:              'https://unstable-archives.github.io'
 baseurl:          '/unstable_archives'
 copyright:        '2021 Megan Eaton Robb'
 logo:             '/img/pendant_transparent.png'
