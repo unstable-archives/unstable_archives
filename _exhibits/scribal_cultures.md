@@ -1,9 +1,9 @@
 ---
 layout: exhibit
-title: 'Scribal Cultures / Persian Letter Features'
+title: 'Persian Letters - Crafts and Conventions'
 author: Hallie Nell Swanson
 publish_date: 2021-09-15
-permalink: /exhibits/writing_cultures/
+permalink: /exhibits/scribal_cultures/
 ---
 
 <h3>Paper, envelopes, sealing etc.</h3>
@@ -31,7 +31,7 @@ permalink: /exhibits/writing_cultures/
 
 <h3>Modes of address and naming</h3>
 
-<p>Epistolary Persian of this era had a great suspicion of proper names and pronouns for both addressee and writer: writers never use ‘I’ or ‘we’ but rather refer to themselves in the third person as the servant (<i>fidavī</i>); likewise, ‘you’ is avoided at all costs, with Sharaf un-Nisa’s brothers referring to G. G. Ducarel and Sharaf un-Nisa together as ‘those lords’ (<i>‘ān khudā′īgān’</i>). Titles and epithets are often given with names, or preferred over them. The letters use Naib Nizam of Dhaka Reza Khan’s title, Muzaffar Jang (victorious in war), rather than his name. Company administrators also used such titles: Robert Clive and Hastings both had ‘jang’ titles  [two of Clive’s suffixes were Saif Jang or Sabit Jang; Hastings had the suffix Jaladat Jang "); Ducarel is addressed in the letters as ‘asad jang’ (lion of war).</p>
+<p>Epistolary Persian of this era had a great suspicion of proper names and pronouns for both addressee and writer: writers never use ‘I’ or ‘we’ but rather refer to themselves in the third person as the servant (<i>fidavī</i>); likewise, ‘you’ is avoided at all costs, with Sharaf un-Nisa’s brothers referring to G. G. Ducarel and Sharaf un-Nisa together as ‘those lords’ (<i>‘ān khudā′īgān’</i>). Titles and epithets are often given with names, or preferred over them. The letters use Naib Nizam of Dhaka Reza Khan’s title, Muzaffar Jang (victorious in war), rather than his name. Company administrators also used such titles: Robert Clive and Hastings both had ‘jang’ titles (two of Clive’s suffixes were Saif Jang or Sabit Jang; Hastings had the suffix Jaladat Jang ")<sup>1</sup>; Ducarel is addressed in the letters as ‘asad jang’ (lion of war).</p>
 
 <p>For less grand personalities, men’s names may be mentioned in the third person with an honorific (usually ‘bahādur ṣāḥib’, ‘brave sir’). However, women’s names are never given: Sharaf un-Nisa is identified as ‘sister ṣāḥibah,’ their mother as ‘mother ṣāḥibah’ (the feminized form of <i>ṣāḥib</i>). Honorifics differed depending on audience: in <a href="https://unstable-archives.github.io/unstable_archives/unstable_archives/item19/"> a letter to Sharaf un-Nisa</a>, Dā′īm Beg refers to his brothers as ṣāḥib-i qiblah, a title used by/for Indian Muslim scholars, and his mother as ṣāḥibah-i qiblah. He also calls them <i>bhā′ī</i>, an Indic word meaning brother; yet when writing to G.G. Ducarel in <a href="https://unstable-archives.github.io/unstable_archives/unstable_archives/item25/">Item 25</a> the brothers are ‘barādar-i ʿazīz’, Persian ‘dear brother’.</p>
 
@@ -56,3 +56,7 @@ permalink: /exhibits/writing_cultures/
 <p><b>The Gregorian calendar</b>: <a href="[CHECK WHICH - CAN’T FIND]">One envelope</a> uses the Gregorian system starting from 0 CE, referring to it as ‘inglīsī’, using a word for ‘English’ more common in Iran than India, which tends to use ‘angrayzi’.</p>
 
 <p><b>Regnal years</b>: It was common in Mughal times to use the regnal year of different monarchs. <a href="https://unstable-archives.github.io/unstable_archives/unstable_archives/item34/">One envelope</a>is partly in Hijri (24th of the month of Safar) but uses regnal year 27 of George III (= 1787 CE).</p>
+
+<h3>Notes</h3>
+
+<p>1:Abdul Majed Khan's The Transition in Bengal, 1756-1775 (Cambridge UP 1969), p. xii-xiii.</p>
