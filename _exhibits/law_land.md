@@ -3,7 +3,7 @@ layout: exhibit
 title: 'Law & Land'
 author: Hallie Nell Swanson
 publish_date: 2021-09-15
-permalink: /exhibits/travels/
+permalink: /exhibits/law_land/
 ---
 <h3>Land ownership in 18th century Bengalِ</h3>
 
