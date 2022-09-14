@@ -27,7 +27,8 @@ function displayResult(item, fields, url) {
 
   for (i in fields) {
     fieldLabel = fields[i];
-    if (fieldLabel in item ) {
+    console.log(fieldLabel);
+    if (fieldLabel in item && fieldLabel !== 'transcription' && fieldLabel !== 'transliteration' && fieldLabel !== 'translation') {
       meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
     }
   }
