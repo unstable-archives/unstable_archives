@@ -21,7 +21,7 @@
 title:            'Unstable Archives'
 description:      'Gender & Empire in South Asia'
 url:              'https://unstable-archives.github.io'
-baseurl:          '/unstable_archives'
+baseurl:          ''
 copyright:        '2021 Megan Eaton Robb'
 logo:             '/img/pendant_transparent.png'
 

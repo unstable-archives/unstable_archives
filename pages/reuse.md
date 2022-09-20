@@ -5,8 +5,8 @@ permalink: /reuse/
 collection: unstable_archives
 ---
 
-Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), and as such strives to make its collections findable, accessible, interoperable and reusable.
+<p>Click on the image to download the full metadata sheet as a CSV file:<p>
+<a href="/_data/unstable_archives.csv" download="unstable_archives.csv">
+	<img src="/img/metadata_csv.png" alt="metadata csv screenshot" width="351" height="169">
+</a>
 
-The demo site comes with a specific `_include` called `interactive_metadata_table` to help you make pages like this one complete with interactive [DataTables](https://datatables.net/) and downloadable CSVs of collection metadata.
-
-{% include interactive_metadata_table.html collection=page.collection %}
