@@ -6,7 +6,7 @@ collection: unstable_archives
 ---
 
 <p>Click on the image to download the full metadata sheet as a CSV file:<p>
-<a href="/_data/unstable_archives.csv" download="unstable_archives.csv">
+<a href="https://unstable-archives.github.io/_data/unstable_archives.csv" download="unstable_archives.csv">
 	<img src="/img/metadata_csv.png" alt="metadata csv screenshot" width="351" height="169">
 </a>
 
