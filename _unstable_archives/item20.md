@@ -30,7 +30,4 @@ terms_use:
 images: dml0200-dml0201
 order: '19'
 collection: unstable_archives
-thumbnail: "/img/derivatives/iiif/images/item20_dml0200/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item20_dml0200/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/item20/manifest.json"
 ---

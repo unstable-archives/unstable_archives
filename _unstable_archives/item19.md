@@ -1,9 +1,9 @@
 ---
 pid: item19
-label: 'Letters #6 and 7 in the Persian Collection'
+label: 'A Packet of Letters: Daim Beg to John Shore; Daim Beg to Sharaf un-Nisa'
 translation: |-
   <h3>Translation</h3>
-  <p>Respected [woman], the matter is<br>let it be known, as I understand, brothers Mirza ‘Alim Beg Sahib-i Qiblah<sup>1</sup> and Mirza Qai’m Beg Sahib-i Qiblah and others are in good health. The remaining issues will become apparent from the brother Sahib-i Qiblah’s letters. Mother Sahiba-i Qiblah’s, the other widows’, and the relations’ established sum was not delivered from Raja Devi Singh Bahadur for nearly six months. Because of that, it was not being received. In the meantime, letters have been written for Mister Redfearn Sahib and Raja Devi Singh Bahadur and brother Mirza ‘Alim Beg Sahib-i Qiblah to see what [the issue] was. However, apparently it’s becoming clear that the news reached [you] without interruption, and the reality of these servants/we remaining ones [us] is well known [to you]. [Please] direct whatever part of the payment is better for us servants. With God’s blessing, expectations/hope of Sir Bahadur are high. </p>
+  <p>NB: The following is a translation of the third photograph</p><p>Respected [woman], the matter is<br>let it be known, as I understand, brothers Mirza ‘Alim Beg Sahib-i Qiblah<sup>1</sup> and Mirza Qai’m Beg Sahib-i Qiblah and others are in good health. The remaining issues will become apparent from the brother Sahib-i Qiblah’s letters. Mother Sahiba-i Qiblah’s, the other widows’, and the relations’ established sum was not delivered from Raja Devi Singh Bahadur for nearly six months. Because of that, it was not being received. In the meantime, letters have been written for Mister Redfearn Sahib and Raja Devi Singh Bahadur and brother Mirza ‘Alim Beg Sahib-i Qiblah to see what [the issue] was. However, apparently it’s becoming clear that the news reached [you] without interruption, and the reality of these servants/we remaining ones [us] is well known [to you]. [Please] direct whatever part of the payment is better for us servants. With God’s blessing, expectations/hope of Sir Bahadur are high. </p>
   <br>
 transcription: |-
   <h3>Transcription and Transliteration</h3>
@@ -89,7 +89,4 @@ terms_use:
 images: dml0194-dml0199
 order: '18'
 collection: unstable_archives
-thumbnail: "/img/derivatives/iiif/images/item19_dml0194/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item19_dml0194/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/item19/manifest.json"
 ---

@@ -208,7 +208,4 @@ terms_use:
 images: dml0214-dml0217
 order: '24'
 collection: unstable_archives
-thumbnail: "/img/derivatives/iiif/images/item25_dml0214/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item25_dml0214/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/item25/manifest.json"
 ---

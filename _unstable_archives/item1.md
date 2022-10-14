@@ -178,7 +178,4 @@ terms_use:
 images: dml0001-dml0100
 order: '0'
 collection: unstable_archives
-thumbnail: "/img/derivatives/iiif/images/item1_dml0001/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item1_dml0001/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/item1/manifest.json"
 ---

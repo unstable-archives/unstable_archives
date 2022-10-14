@@ -46,7 +46,4 @@ terms_use:
 images: item10
 order: '9'
 collection: unstable_archives
-thumbnail: "/img/derivatives/iiif/images/item10/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item10/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/item10/manifest.json"
 ---
