@@ -31,4 +31,7 @@ terms_use:
 images: dml0170
 order: '11'
 collection: unstable_archives
+thumbnail: "/img/derivatives/iiif/images/item12/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item12/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/item12/manifest.json"
 ---

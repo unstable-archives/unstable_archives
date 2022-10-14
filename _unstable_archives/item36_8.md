@@ -33,4 +33,7 @@ terms_use:
 images: dml0133-dml0136
 order: '42'
 collection: unstable_archives
+thumbnail: "/img/derivatives/iiif/images/item36_8_dml0133/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item36_8_dml0133/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/item36_8/manifest.json"
 ---

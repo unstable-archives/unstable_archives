@@ -89,4 +89,7 @@ terms_use:
 images: dml0194-dml0199
 order: '18'
 collection: unstable_archives
+thumbnail: "/img/derivatives/iiif/images/item19_dml0194/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item19_dml0194/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/item19/manifest.json"
 ---
