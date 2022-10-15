@@ -53,7 +53,7 @@ permalink: /exhibits/scribal_cultures/
 
 <p><b>The Bengali calendar</b>: A solar calendar in use in Bengal, which begins in 593/594 CE. We have used <a href="http://www.banglatext.com/bangla-date-converter.html">this converter</a>.  to find corresponding Gregorian dates. <a href="https://unstable-archives.github.io/unstable_archives/unstable_archives/item35/">One item</a> seems to indicate Bengali months with logographs but we could not decipher the full date.</p>
 
-<p><b>The Gregorian calendar</b>: <a href="[CHECK WHICH - CAN’T FIND]">One envelope</a> uses the Gregorian system starting from 0 CE, referring to it as ‘inglīsī’, using a word for ‘English’ more common in Iran than India, which tends to use ‘angrayzi’.</p>
+<p><b>The Gregorian calendar</b>: One envelope uses the Gregorian system starting from 0 CE, referring to it as ‘inglīsī’, using a word for ‘English’ more common in Iran than India, which tends to use ‘angrayzi’.</p>
 
 <p><b>Regnal years</b>: It was common in Mughal times to use the regnal year of different monarchs. <a href="https://unstable-archives.github.io/unstable_archives/unstable_archives/item34/">One envelope</a>is partly in Hijri (24th of the month of Safar) but uses regnal year 27 of George III (= 1787 CE).</p>
 
