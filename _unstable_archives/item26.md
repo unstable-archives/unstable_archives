@@ -26,4 +26,7 @@ terms_use:
 images: dml0218-dml0219
 order: '25'
 collection: unstable_archives
+thumbnail: "/img/derivatives/iiif/images/item26_dml0218/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item26_dml0218/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/item26/manifest.json"
 ---

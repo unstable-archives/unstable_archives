@@ -46,4 +46,7 @@ terms_use:
 images: dml0251-dml0255
 order: '1'
 collection: unstable_archives
+thumbnail: "/img/derivatives/iiif/images/item2_dml0251/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item2_dml0251/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/item2/manifest.json"
 ---

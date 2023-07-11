@@ -29,4 +29,7 @@ terms_use:
 images: dml0210-dml0211
 order: '22'
 collection: unstable_archives
+thumbnail: "/img/derivatives/iiif/images/item23_dml0210/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item23_dml0210/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/item23/manifest.json"
 ---

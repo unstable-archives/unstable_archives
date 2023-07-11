@@ -84,4 +84,7 @@ terms_use:
 images: dml0238-dml0241
 order: '34'
 collection: unstable_archives
+thumbnail: "/img/derivatives/iiif/images/item35_dml0238/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item35_dml0238/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/item35/manifest.json"
 ---

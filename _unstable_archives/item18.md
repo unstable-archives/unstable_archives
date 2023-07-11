@@ -30,4 +30,7 @@ terms_use:
 images: dml0192-dml0193
 order: '17'
 collection: unstable_archives
+thumbnail: "/img/derivatives/iiif/images/item18_dml0192/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item18_dml0192/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/item18/manifest.json"
 ---

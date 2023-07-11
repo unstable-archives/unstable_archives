@@ -27,4 +27,7 @@ terms_use:
 images: dml0121-dml0124
 order: '40'
 collection: unstable_archives
+thumbnail: "/img/derivatives/iiif/images/item36_6_dml0121/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item36_6_dml0121/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/item36_6/manifest.json"
 ---
