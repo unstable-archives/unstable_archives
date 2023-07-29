@@ -59,10 +59,10 @@ transcription: "<h3>1</h3>\n<p style=\"text-align:right;\"> بعرضمیرسآن
   \n<p style=\"text-align:right;\">در ماهه که سالیانه ھمگی مبلغ یکهزار و دوصد روپیه
   مقرر کرده دهند خداوندآ از این معنی راجه دیپی سنگه بهادر صاحب و </p>\n<p>dar māhah
   kah sāl‭‭īyānah hamagī mablagh-i yikhazār va dūṣad rūpiyyah muqarrar kardah dahand
-  khudāvandā az īn maʿnī rājah daybī singh bahādur ṣāḥib va </p>\n\n<h3>16</h3> \nهم
-  <p style=\"text-align:right;\">  <span style=\"color:red\"><u>ناخوانا</u></span>
-  \ وکیل خوب  واقف اند اما تا حال راجه بردوان  در ماهه مسطور را \nبفدویی نداده اند
-  خدایگانی مالک حال و مال  </p>\n<p>ham <span style=\"color:red\"><u>nā khvānah</u></span>
+  khudāvandā az īn maʿnī rājah daybī singh bahādur ṣāḥib va </p>\n\n<h3>16</h3> \n<p
+  style=\"text-align:right;\">هم <span style=\"color:red\"><u>ناخوانا</u></span> وکیل
+  خوب واقف اند اما تا حال راجه بردوان در ماهه مسطور را\nبفدویی نداده اند خدایگانی
+  مالک حال و مال  </p>\n<p>ham <span style=\"color:red\"><u>nā khvānah</u></span>
   \ vakīl khūb wāqif′and ammā tā ḥāl rājah-i burdvān dar māhih masṭūr rā bih′fidavī
   nadādah′and khudāygānī mālik-i ḥāl va māl </p>\n\n\n<h3>17</h3> \n<p style=\"text-align:right;\">و
   \ سرپرست فدویی هستند اگر همدرین مقدمه سرپرستی فدویی فرمایند یقین که حق بمرکز قرار

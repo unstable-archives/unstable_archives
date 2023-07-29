@@ -160,7 +160,7 @@ menu:
       - label: 'Reading Resources'
         link: '/reading_resources_for_teachers/'
       - label: 'Bibliography for Scholars'
-        link: '/bibliography_for_scholars'
+        link: '/bibliography_for_scholars/'
   - label: 'Browse'
     sub:
       - label: 'Browse'
