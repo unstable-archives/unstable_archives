@@ -2,7 +2,7 @@
 pid: item25
 label: Petition from 'Alim Beg to Elizabeth Sharaf un-Nisa Signed by 'Alim Beg + Envelope
   Sealed by Daim Beg
-translation: |
+translation: |-
   <p>It is petitioned:</p>
   <p>Mister Qutb al-Daw'lah Bahādur [Pole of the State][Ducarel] kindly entrusted dear, respected brother [“Aziz ul-qadir" (literally: the beloved of the heart”)] Qaim Beg. As long as the benevolent lord was here, each month the monthly stipend from working for the Nawab Sahib would be delivered to my brother. The salary from that time up to the time of writing this letter is due, and the amount for the two months, which is 3300 rupees, has not reached the aforesaid brother in this state of affairs. The aforementioned brother is passing his days in intense suffering. There is no one [to help] but the lord according to this petition about this matter. Whatever you think is best.</p>
   <p>The second thing is: the amount of two thousand rupees for buying the haveli is placed in the trust of Mister <span style="color:red"><u>illegible</u></span> and the receipt for that aforementioned amount by English handwriting is with Rajah Devi Singh Bahadur. The aforementioned Mister Sahib never gave the aforementioned money to this servant. It would be the very picture of the lord’s guardianship if the lord through his great generosity could write to obtain the receipt for the above-mentioned amount from the Rajah Bahadur Sahib and have it sent to the aforementioned Mister Sahib and, at this time of difficulty and vexation, if the extent/number of the written amount [on the receipt] were sought from Mister Sahib, and [if it were] entrusted to the servant. And it was necessary that this be brought forward. </p>
