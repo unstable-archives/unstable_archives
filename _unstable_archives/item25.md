@@ -2,7 +2,7 @@
 pid: item25
 label: Petition from 'Alim Beg to Elizabeth Sharaf un-Nisa Signed by 'Alim Beg + Envelope
   Sealed by Daim Beg
-translation: |-
+translation: |
   <p>It is petitioned:</p>
   <p>Mister Qutb al-Daw'lah Bahādur [Pole of the State][Ducarel] kindly entrusted dear, respected brother [“Aziz ul-qadir" (literally: the beloved of the heart”)] Qaim Beg. As long as the benevolent lord was here, each month the monthly stipend from working for the Nawab Sahib would be delivered to my brother. The salary from that time up to the time of writing this letter is due, and the amount for the two months, which is 3300 rupees, has not reached the aforesaid brother in this state of affairs. The aforementioned brother is passing his days in intense suffering. There is no one [to help] but the lord according to this petition about this matter. Whatever you think is best.</p>
   <p>The second thing is: the amount of two thousand rupees for buying the haveli is placed in the trust of Mister <span style="color:red"><u>illegible</u></span> and the receipt for that aforementioned amount by English handwriting is with Rajah Devi Singh Bahadur. The aforementioned Mister Sahib never gave the aforementioned money to this servant. It would be the very picture of the lord’s guardianship if the lord through his great generosity could write to obtain the receipt for the above-mentioned amount from the Rajah Bahadur Sahib and have it sent to the aforementioned Mister Sahib and, at this time of difficulty and vexation, if the extent/number of the written amount [on the receipt] were sought from Mister Sahib, and [if it were] entrusted to the servant. And it was necessary that this be brought forward. </p>
@@ -126,7 +126,9 @@ transcription: "<h3>1</h3>\n<p style=\"text-align:right;\"> بعرضمیرسآن
   متصور است واجب بود عرضنمود  </p>\n<p>bih’muqaddimah-i zar intifāʿ guftah dahand
   yaqīn kah bih′andak sa′ī zar-i maẕkūr bih′dast-i fidavī mī āyad ʿayn-i khudāvandī
   va sarparastī-i mutaṣavvir ast vājib būd ʿarz̤ namūd </p>\n\n<h3>31</h3> \n<p style=\"text-align:right;\">
-  \ التماس شهر غریب عالم بیگ <p>\n<p>iltimās shahar-i gharīb ʿālim bayg</p>"
+  \ التماس شهر غریب عالم بیگ <p>\n<p>iltimās shahar-i gharīb ʿālim bayg</p>\n\n<p>Learn
+  more from the <a href=\"https://docs.google.com/spreadsheets/d/1dc8x3NUDKwOXjB30ybPHwU6J9kUfJRiCxIkFhiGtvxs/edit?usp=sharing\">
+  complete vocabulary list</a>.</p>"
 summary: One letter and one envelope.
 contents: 'The letter is a petition separated into five parts, signed by ''Alim Beg.
   The envelope is sealed by Daim Beg, with his seal printed in ink rather than with
@@ -161,6 +163,5 @@ images: dml0214-dml0217
 order: '24'
 collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item25_dml0214/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item25_dml0214/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item25/manifest.json"
 ---
