@@ -143,6 +143,8 @@ menu:
         link: '/exhibits/attire/'
       - label: 'Law & Land'
         link: '/exhibits/law_land/'
+      - label: 'Law & Interracial Marriage'
+        link: '/exhibits/law_interracial_marriage/'
   - label: 'Scholarship'
     sub:
       - label: 'DH & Family Archives'
