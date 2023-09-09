@@ -35,6 +35,6 @@ images: dml0164-dml0165
 order: '7'
 collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item8_dml0164/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item8_dml0164/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item8/manifest.json"
+full: "/img/derivatives/iiif/images/item8_dml0164/full/1140,/0/default.jpg"
 ---

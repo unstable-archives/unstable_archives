@@ -18,8 +18,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item11_dml0153.json",
           "label": "Page 1",
-          "width": 1512,
-          "height": 2100,
+          "width": 1780,
+          "height": 1571,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0153/full/250,/0/default.jpg",
           "images": [
             {
@@ -35,8 +35,8 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0153",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 1512,
-                "height": 2100
+                "width": 1780,
+                "height": 1571
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item11_dml0153.json"
             }
@@ -74,8 +74,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item11_dml0155.json",
           "label": "Page 3",
-          "width": 1780,
-          "height": 1571,
+          "width": 1900,
+          "height": 1401,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0155/full/250,/0/default.jpg",
           "images": [
             {
@@ -91,8 +91,8 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0155",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 1780,
-                "height": 1571
+                "width": 1900,
+                "height": 1401
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item11_dml0155.json"
             }
@@ -130,8 +130,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item11_dml0157.json",
           "label": "Page 5",
-          "width": 1900,
-          "height": 1401,
+          "width": 1512,
+          "height": 2100,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0157/full/250,/0/default.jpg",
           "images": [
             {
@@ -147,8 +147,8 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0157",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 1900,
-                "height": 1401
+                "width": 1512,
+                "height": 2100
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item11_dml0157.json"
             }
@@ -157,5 +157,6 @@ layout: none
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0153/full/full/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0153/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0153/full/1140,/0/default.jpg"
 }

@@ -31,6 +31,6 @@ images: dml0232-dml0233
 order: '31'
 collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item32_dml0232/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item32_dml0232/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item32/manifest.json"
+full: "/img/derivatives/iiif/images/item32_dml0232/full/1140,/0/default.jpg"
 ---

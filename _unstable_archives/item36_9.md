@@ -28,6 +28,6 @@ images: dml0137-dml0140
 order: '43'
 collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item36_9_dml0137/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item36_9_dml0137/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item36_9/manifest.json"
+full: "/img/derivatives/iiif/images/item36_9_dml0137/full/1140,/0/default.jpg"
 ---

@@ -30,6 +30,6 @@ images: dml0186-dml0189
 order: '15'
 collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item16_dml0186/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item16_dml0186/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item16/manifest.json"
+full: "/img/derivatives/iiif/images/item16_dml0186/full/1140,/0/default.jpg"
 ---

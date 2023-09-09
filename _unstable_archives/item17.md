@@ -32,6 +32,6 @@ images: dml0190-dml0191
 order: '16'
 collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item17_dml0190/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item17_dml0190/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item17/manifest.json"
+full: "/img/derivatives/iiif/images/item17_dml0190/full/1140,/0/default.jpg"
 ---

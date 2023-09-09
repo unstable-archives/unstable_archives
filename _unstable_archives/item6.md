@@ -44,6 +44,6 @@ images: dml0168-dml0169
 order: '5'
 collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item6_dml0168/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/item6_dml0168/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item6/manifest.json"
+full: "/img/derivatives/iiif/images/item6_dml0168/full/1140,/0/default.jpg"
 ---
