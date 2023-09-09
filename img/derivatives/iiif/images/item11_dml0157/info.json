@@ -3,22 +3,22 @@ layout: none
 ---
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0157",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item11_dml0153",
   "protocol": "http://iiif.io/api/image",
-  "width": 1900,
-  "height": 1401,
+  "width": 1512,
+  "height": 2100,
   "sizes": [
     {
-      "width": 1900,
-      "height": 1401
+      "width": 1512,
+      "height": 2100
     },
     {
       "width": 250,
-      "height": 184
+      "height": 347
     },
     {
       "width": 1140,
-      "height": 841
+      "height": 1583
     }
   ],
   "profile": [
