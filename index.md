@@ -22,7 +22,7 @@ banner:
 
 <p>This project has benefited from the hard work of the following staff members:</p>
 <p><a href="http://maxjohnsondugan.com/">Max Johnson Dugan</a>, Lead Designer and DH Specialist</p>
-<p>Seyed Ali Noori, Lead Persian Translator and DH Specialist</p>
+<p><a href="https://rels.sas.upenn.edu/index.php/people/ali-noori">Seyed Ali Noori</a>, Lead Persian Translator and DH Specialist</p>
 <p>Hallie Nell Swanson, Persian Translator and Archival Researcher</p>
 <p>Munazza Ebtikar, Archival Researcher</p>
 <br>
