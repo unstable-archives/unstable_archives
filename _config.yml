@@ -173,8 +173,6 @@ menu:
         link: '/search/'
       - label: 'Reuse'
         link: '/reuse/'
-      - label: 'Permissions'
-        link: '/permissions/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -183,8 +181,6 @@ menu:
 
 footer:
   links:
-    - label: 'Unstable Archives'
-      link: 'https://unstable-archives.com/'
     - label: 'Wax'
       link: '/credits'
     - label: 'Contact'
