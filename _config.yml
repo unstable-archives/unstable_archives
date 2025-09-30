@@ -148,7 +148,9 @@ menu:
       - label: 'Attitudes towards Interracial Romance'
         link: '/attitudes_towards_interracial_romance/'
       - label: 'Ryots and Company Rule'
-        link: '/exhibits/ryots_and_company_rule/'  
+        link: '/exhibits/ryots_and_company_rule/'
+      - label: 'Between Two Words'
+        link: '/exhibits/between_two_words/'  
   - label: 'Scholarship'
     sub:
       - label: 'DH & Family Archives'
